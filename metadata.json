@@ -1,0 +1,6 @@
+{
+  "name": "Zebaish Ladies Boutique & POS",
+  "description": "Comprehensive retail Point of Sale & Inventory Management System for ladies' cosmetics, jewelry, laces, and fashion accessories with fast billing, receipt printing, stock tracking, and financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
